@@ -1,4 +1,4 @@
-1. pip install opencv-python
-2. pip install mediapipe
-3. pip install numpy
-4. pip install pycaw
+pip install opencv-python
+pip install mediapipe
+pip install numpy
+pip install pycaw
